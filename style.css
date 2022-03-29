@@ -1,0 +1,72 @@
+.bouton {
+    text-align: center;
+
+    
+
+}
+
+header {
+    font-size: 60px;
+    text-align: center;
+    color: rgb(243, 185, 78);
+    background-color: gray;
+    padding: 1px;
+    
+}
+
+.foot {
+    text-align: center;
+    background-color: gray;
+    color: rgb(243, 185, 78);
+    padding: 4%;
+    
+
+}
+
+body{
+    background-color: gray;
+}
+
+.imageEclair {
+    text-align: right;
+    padding-right: 500px;
+}
+
+.imageHomme {
+    text-align: left;
+    padding-left: 500px;
+    
+    
+}
+
+
+.resultat {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 5px solid rgb(243, 185, 78);
+    margin-left: ;
+    margin-right: ;
+    
+
+    
+    
+}
+
+
+.reponseAppli{
+    text-align: center;
+    height: 50px;
+    font
+}
+
+.reponseAppli > input{
+    height: 25px;
+    width: 200px;
+    
+}
+
+.bouton > input{
+    height: 100px;
+    width: 100px;
+}
